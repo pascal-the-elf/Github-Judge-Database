@@ -8,18 +8,24 @@
     "Tests": [
         {
             "score": 20,
+            "time": 1,
+            "memory": 524288,
             "input": "input/0",
             "output": "output/0",
             "rule": "S無空格"
         },
         {
             "score": 30,
+            "time": 1,
+            "memory": 524288,
             "input": "input/1",
             "output": "output/1",
             "rule": "S.length() ≦ 100"
         },
         {
             "score": 50,
+            "time": 1,
+            "memory": 524288,
             "input": "input/2",
             "output": "output/2",
             "rule": "無其他條件"
