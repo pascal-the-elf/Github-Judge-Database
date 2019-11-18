@@ -1,0 +1,28 @@
+{
+    "Prefix": "a",
+    "No": "001",
+    "Name": "Hello!",
+    "Description": "輸入一個字串S，然後輸出Hello, S!",
+    "Input": "Jacob\nPascal",
+    "Output": "Hello, Jacob!\nHello, Pascal!",
+    "Tests": [
+        {
+            "score": 20,
+            "input": "input/0",
+            "output": "output/0",
+            "rule": "S無空格"
+        },
+        {
+            "score": 30,
+            "input": "input/1",
+            "output": "output/1",
+            "rule": "S.length() ≦ 100"
+        },
+        {
+            "score": 50,
+            "input": "input/2",
+            "output": "output/2",
+            "rule": "無其他條件"
+        }
+    ]
+}
