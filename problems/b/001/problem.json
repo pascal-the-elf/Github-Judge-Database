@@ -1,0 +1,20 @@
+
+{
+    "Prefix": "b",
+    "No": "001",
+    "Name": "STL: Stack",
+    "Description": "Stack 是 STL 中的一個容器。\n如同其名，Stack 的結構就像是疊在一起的一疊盤子。\n也因此 Stack 只能執行以下操作：\n1. 獲取頂端元素的值\n2. 放入一個新元素至 Stack 頂端\n3. 從 Stack 頂端移除一個元素\n\n現在請你寫出一個程式來完成以上三種操作。\n每行輸入有一個(第一種操作)或兩個(第二三種操作)數字，第一個數字代表操作種類，另一個則代表操作的值(第一種操作沒有值)。",
+    "Tags": ["easy", "stl", "stack"],
+    "Input": "",
+    "Output": "",
+    "Tests": [
+        {
+            "score": 100,
+            "time": 1,
+            "memory": 524288,
+            "input": "input/0",
+            "output": "output/0",
+            "constraint": "無其他條件"
+        }
+    ]
+}
