@@ -3,6 +3,7 @@
     "No": "001",
     "Name": "Hello!",
     "Description": "輸入一個字串S，然後輸出Hello, S!",
+    "Tags": ["easy"],
     "Input": "Jacob\nPascal",
     "Output": "Hello, Jacob!\nHello, Pascal!",
     "Tests": [
