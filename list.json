@@ -4,5 +4,11 @@
       "name": "Hello!",
       "tags": ["easy"]
     }
+  },
+  "z": {
+    "001": {
+      "name": "承謙的煩惱",
+      "tags": ["easy", "jack chen", "hsnu1481"]
+    }
   }
 }
